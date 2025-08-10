@@ -279,3 +279,4 @@ If you encounter issues:
 ---
 
 **Note**: First-time setup may take 10-20 minutes due to AI model downloads. Ensure you have a stable internet connection and sufficient disk space.
+conda env list
